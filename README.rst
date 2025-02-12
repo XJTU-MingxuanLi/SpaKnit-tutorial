@@ -6,8 +6,6 @@
 
 SpaKnit is a multimodal integration framework for spatial multi-omics data. SpaKnit treats different omics modalities as continuous functions defined by their shared spatial coordinates, enabling it to uncover nonlinear correlations among these modalities.
 
-![SpaKnit_Framework](.\SpaKnit_Framework.png)
-
 ## Requirements
 
 - python==3.11.5
@@ -24,7 +22,3 @@ SpaKnit is a multimodal integration framework for spatial multi-omics data. SpaK
 - opencv-python==4.9.0.80
 - rpy2==3.5.14
 - R==4.3.1
-
-## Getting started
-
-We provide detailed Toturials as well as  Documentations at 
