@@ -1,17 +1,12 @@
 Welcome to SpaKnit's documentation!
 ===================================
 
-.. note::
-
-   This project is under active development.
-
 Contents
 --------
 
 .. toctree::
+   :maxdepth: 1
 
-   usage
-   api
    Tutorial_1_Spatial_Scenarios.ipynb
    Tutorial_2_Noise_Combinations.ipynb
    Tutorial_3_Mouse_Brain.ipynb
