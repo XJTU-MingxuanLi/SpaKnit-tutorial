@@ -12,4 +12,8 @@ Contents
    Tutorial_3_Mouse_Brain.ipynb
    Tutorial_4_Mouse_Spleen.ipynb
    Tutorial_5_Mouse_Thymus.ipynb
-   Extended_Tutorial_Mouse_Thymus_Noised.ipynb
+
+.. image:: SpaKnit_Framework.png
+   :width: 200px
+   :alt: Overview of SpaKnit
+   :align: center
