@@ -14,6 +14,6 @@ Contents
    Tutorial_5_Mouse_Thymus.ipynb
 
 .. image:: SpaKnit_Framework.png
-   :width: 500px
+   :width: 1000px
    :alt: Overview of SpaKnit
    :align: center
