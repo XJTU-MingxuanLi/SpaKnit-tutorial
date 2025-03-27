@@ -1,8 +1,5 @@
-Visualizations
-===================================
-
 Fig. 2 (Part 1)
-------------------
+===================================
 .. toctree::
    :maxdepth: 1
 
@@ -14,7 +11,7 @@ Fig. 2 (Part 1)
    Spatial_Patterns_Metrics.ipynb
 
 Fig. 2 (Part 2)
-------------------
+===================================
 .. toctree::
    :maxdepth: 1
 
@@ -26,7 +23,7 @@ Fig. 2 (Part 2)
    Noise_Combination_4_Domain.ipynb
 
 Fig. 3 (Part 1)
-------------------
+===================================
 .. toctree::
    :maxdepth: 1
 
@@ -40,7 +37,7 @@ Fig. 3 (Part 1)
    Mouse_Brain_Moran.ipynb
 
 Fig. 3 (Part 2)
-------------------
+===================================
 .. toctree::
    :maxdepth: 1
 
@@ -53,7 +50,7 @@ Fig. 3 (Part 2)
    Mouse_Spleen_Moran.ipynb
 
 Fig. 4
-------------------
+===================================
 .. toctree::
    :maxdepth: 1
 
