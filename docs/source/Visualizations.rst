@@ -2,7 +2,7 @@ Visualizations
 ===================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    Spatial_Pattern_1_Domain.ipynb
    Spatial_Pattern_2_Domain.ipynb
@@ -12,7 +12,7 @@ Visualizations
    Spatial_Patterns_Metrics.ipynb
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    Noise_Added_Gaussian.ipynb
    Noise_Added_Distribution.ipynb
@@ -22,7 +22,7 @@ Visualizations
    Noise_Combination_4_Domain.ipynb
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    Mouse_Brain_Domain_ATAC.ipynb
    Mouse_Brain_Domain_H3K4me3.ipynb
@@ -32,3 +32,24 @@ Visualizations
    Mouse_Brain_INR.ipynb
    Mouse_Brain_Marker_Gene.ipynb
    Mouse_Brain_Moran.ipynb
+
+.. toctree::
+   :maxdepth: 1
+   Mouse_Spleen_1_Domain.ipynb
+   Mouse_Spleen_1_Structures.ipynb
+   Mouse_Spleen_2_Domain.ipynb
+   Mouse_Spleen_2_Structures.ipynb
+   Mouse_Spleen_CHAOS.ipynb
+   Mouse_Spleen_Histological_Validation.ipynb
+   Mouse_Spleen_Moran.ipynb
+
+
+
+
+
+
+
+
+
+
+
