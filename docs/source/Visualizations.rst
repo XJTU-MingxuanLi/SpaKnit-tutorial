@@ -2,7 +2,7 @@ Visualizations
 ===================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
    Spatial_Pattern_1_Domain.ipynb
    Spatial_Pattern_2_Domain.ipynb
@@ -12,7 +12,7 @@ Visualizations
    Spatial_Patterns_Metrics.ipynb
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
    Noise_Added_Gaussian.ipynb
    Noise_Added_Distribution.ipynb
@@ -22,7 +22,7 @@ Visualizations
    Noise_Combination_4_Domain.ipynb
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
    Mouse_Brain_Domain_ATAC.ipynb
    Mouse_Brain_Domain_H3K4me3.ipynb
