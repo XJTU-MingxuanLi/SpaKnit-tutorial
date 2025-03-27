@@ -38,5 +38,5 @@ epub_show_urls = 'footnote'
 html_theme_options = {
     "navigation_depth": 3,
     "collapse_navigation": False,
-    "sticky_navigation": False  
+    "sticky_navigation": True  
 }
