@@ -2,7 +2,7 @@ Tutorials
 ===================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    Tutorial_1_Spatial_Scenarios.ipynb
    Tutorial_2_Noise_Combinations.ipynb
