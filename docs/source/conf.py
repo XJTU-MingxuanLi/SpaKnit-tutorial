@@ -2,16 +2,17 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'SpaKnit'
+copyright = '2025, Mingxuan Li'
+author = 'Mingxuan Li'
 
 release = '0.1'
-version = '0.1.0'
+version = 'latest'
 
 # -- General configuration
 
 extensions = [
+    "nbsphinx",
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
