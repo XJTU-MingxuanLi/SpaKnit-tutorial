@@ -11,3 +11,8 @@ SpaKnit - A Tool for Spatial Multi-omics Data Integration
    :maxdepth: 2
    
    Tutorials.rst
+
+.. toctree::
+   :maxdepth: 2
+   
+   Visualizations.rst
