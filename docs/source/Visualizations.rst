@@ -13,7 +13,7 @@ Visualizations
 
    :maxdepth: 2
    :caption:Fig.2 (Part 2)
-   Gaussian_Noise_Added.ipynb
+   Noise_Added_Gaussian.ipynb
    Noise_Added_Distribution.ipynb
    Noise_Combination_1_Domain.ipynb
    Noise_Combination_2_Domain.ipynb
