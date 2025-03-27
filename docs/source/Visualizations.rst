@@ -19,3 +19,14 @@ Visualizations
    Noise_Combination_2_Domain.ipynb
    Noise_Combination_3_Domain.ipynb
    Noise_Combination_4_Domain.ipynb
+
+   :maxdepth: 3
+   :caption:Fig.3 (Part 1)
+   Mouse_Brain_Domain_ATAC.ipynb
+   Mouse_Brain_Domain_H3K4me3.ipynb
+   Mouse_Brain_Domain_H3K27ac.ipynb
+   Mouse_Brain_Domain_H3K27me3.ipynb
+   Mouse_Brain_Balance.ipynb
+   Mouse_Brain_INR.ipynb
+   Mouse_Brain_Marker_Gene.ipynb
+   Mouse_Brain_Moran.ipynb
