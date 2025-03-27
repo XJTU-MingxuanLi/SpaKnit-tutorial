@@ -11,7 +11,6 @@ Visualizations
    Spatial_Patterns Distribution.ipynb
    Spatial_Patterns_Metrics.ipynb
 
-.. toctree::
    :maxdepth: 2
    :caption:Fig.2 (Part 2)
    Gaussian_Noise_Added.ipynb
