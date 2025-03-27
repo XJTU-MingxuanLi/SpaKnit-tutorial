@@ -35,6 +35,7 @@ Visualizations
 
 .. toctree::
    :maxdepth: 1
+
    Mouse_Spleen_1_Domain.ipynb
    Mouse_Spleen_1_Structures.ipynb
    Mouse_Spleen_2_Domain.ipynb
@@ -45,6 +46,7 @@ Visualizations
 
 .. toctree::
    :maxdepth: 1
+
    Mouse_Thymus_1_Spatial_Domain.ipynb
    Mouse_Thymus_2_Spatial_Domain.ipynb
    Mouse_Thymus_3_Spatial_Domain.ipynb
