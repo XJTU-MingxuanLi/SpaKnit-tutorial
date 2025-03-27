@@ -53,5 +53,3 @@ Visualizations
    Mouse_Thymus_Noised_Domain.ipynb
    Mouse_Thymus_Noised_Metrics.ipynb
    Mouse_Thymus_trajectory_inference.ipynb
-
-
