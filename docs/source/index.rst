@@ -7,8 +7,11 @@ SpaKnit - A Tool for Spatial Multi-omics Data Integration
    :alt: Overview of SpaKnit
    :align: center
 
+
 .. note::
-   这是一个注意事项。
+   In the Tutorials Section, please download all data and place it under the SpaKnit/Data folder in order to run the case smoothly (https://zenodo.org/records/14854748).
+   In the Visualization Section, we have provided reproducible codes for all of SpaKnit's graphs. Please download all the results and place them in the SpaKnit/Results folder (https://zenodo.org/records/15182465).
+
 
 .. toctree::
    :maxdepth: 1
